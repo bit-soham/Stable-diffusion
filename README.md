@@ -1,3 +1,5 @@
+This project was developed by me and [Soham T. Umbare](https://github.com/theSohamTUmbare)
+
 # **Re-Implementation of Stable Diffusion**
 
 This project focuses on re-implementing Stable Diffusion using a custom architecture with a **Variational Autoencoder (VAE)**, **CLIP Encoder**, and a **U-Net** for step-by-step denoising of images based on prompts. A scheduler guides the denoising process.
