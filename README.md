@@ -8,7 +8,7 @@ This project focuses on re-implementing Stable Diffusion using a custom architec
 
 ![Architecture and Workflow](images/architecture.png)
 
-The results shown in the image above are generated using pre-trained weights from hugging face. 
+The results shown in the image above are generated using pre-trained weights at this [link](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/blob/main/v1-5-pruned-emaonly.ckpt)
 These are **not** the results of our custom-trained models.
 
 ---
